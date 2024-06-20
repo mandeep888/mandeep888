@@ -21,6 +21,8 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1qdiT9_X67GR2ydyo2S4R3pX6csVlQBHk/view?usp=drive_link](https://drive.google.com/file/d/1qdiT9_X67GR2ydyo2S4R3pX6csVlQBHk/view?usp=drive_link)
 
+- 🌐 Portfolio - mandeep888.github.io/portfolio/
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mandeepsjass" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mandeepsjass" height="30" width="40" /></a>
